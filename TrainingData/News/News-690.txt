@@ -1,0 +1,1 @@
+"The lights all have motion detection and can trigger other lights and Ring cameras, as well as send an alert to the owner’s mobile device."

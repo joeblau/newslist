@@ -1,0 +1,1 @@
+"Perhaps the biggest news NVIDIA revealed at CES 2019 was their decision to open up and embrace the VESA Adaptive Sync standard, allowing the activation of G-SYNC on those displays."

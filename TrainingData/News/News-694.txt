@@ -1,0 +1,1 @@
+"This orientation is unlikely, given the amount of internal space that it will consume in this orientation, but three cameras is still a possibility."

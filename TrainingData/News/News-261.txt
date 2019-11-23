@@ -1,0 +1,1 @@
+"The description of this update is: This update resolves the issue where local users who are part of the local “Administrators“ group may not be able to remotely access shares on Windows 7 SP1 and Windows Server 2008 R2 machines after installing the January 8th, 2019 security updates."

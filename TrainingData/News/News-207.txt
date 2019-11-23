@@ -1,0 +1,1 @@
+""" There's also a direct reference to a new game plus mode."

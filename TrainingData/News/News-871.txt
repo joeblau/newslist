@@ -1,0 +1,1 @@
+"That xGMI is AMD's answer to Nvidia's NVLink so who knows how 2 Radeon VIIs may scale compared to the RTX 2080TI that costs nearly twice as much a single Radeon VII."

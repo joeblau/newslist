@@ -1,0 +1,1 @@
+"That's making apps that need to work in the background — like Urbandroid's Sleep as Android app unable to do what they were intended to do."

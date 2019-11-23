@@ -1,0 +1,1 @@
+"The ""issue"" is that the companies making phones have changed how vital Android components like Doze work; have built apps that are designed to aggressively sweep and kill apps that are using system resources; and even building whitelists that say which apps are allowed to run while not on the screen."

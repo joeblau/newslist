@@ -1,0 +1,1 @@
+"AMD's Vega 20 diffusion lines over at TSMC has been running for more than 6 months and by the very nature of that imperfect diffusion process there are built up plenty of DIE/Bins of some non performant for the professional market Vega 20 DIEs that are now being used for the consumer Radeon VII."

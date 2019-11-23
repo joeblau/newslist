@@ -1,0 +1,1 @@
+"So AMD probably has some Binned Vega 20 DIE Binns full with DIEs that are very similar to Vega 56's metrics in total working Shaders:TMUs:ROPs!"

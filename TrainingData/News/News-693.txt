@@ -1,0 +1,1 @@
+"Ring Alarm now allows Alexa voice commands for locking and unlocking and arming and disarming smart locks."

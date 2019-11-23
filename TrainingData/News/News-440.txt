@@ -1,0 +1,1 @@
+"Nokia includes an app on every phone the company makes that runs Android Oreo or higher that kills every background process 20 minutes after the screen is turned off."

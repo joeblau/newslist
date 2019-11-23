@@ -1,0 +1,1 @@
+"There are some detailed ways that a developer who wants or needs an app to be alive and working in the background — whenever you aren't actively looking at the screen — to do so in a way that's consistent across all phones."

@@ -1,0 +1,1 @@
+"Vega 20 Die binns that are just waiting to be mounted 2 at a time to a simgle PCIe card beacuse what elese can AMD do with some 7nm Vega 20 DIEs that have even less available nCUs/shaders than even Radeon VII."

@@ -1,0 +1,1 @@
+"So maybe AMD could get Vega Discrete Mobile Transitioned to 7nm/TSMC also and Apple's the only one making use of any Discrete Vega Mobile/4GB HBM2 SKU and those variants appear to be OEM(Apple) exclusive."

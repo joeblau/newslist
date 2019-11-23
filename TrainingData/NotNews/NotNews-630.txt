@@ -1,0 +1,1 @@
+"Vega 20 has an extended ISA that supports so new AI oriented operations that will make for better AI based upscaling/other AI based Denoising, Filtering, operations etc."

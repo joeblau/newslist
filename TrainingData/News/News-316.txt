@@ -1,0 +1,1 @@
+"Performance won't be a concern, as it boasts a 6-core Intel i7-8750H CPU, NVIDIA RTX 2080 Max-Q graphics, 1080p 144Hz screen and up to 32GB of RAM."

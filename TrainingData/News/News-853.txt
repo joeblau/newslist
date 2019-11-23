@@ -1,0 +1,1 @@
+"Do you really think that Nvidia's Shader Core/SM designs were that much different generation to generation since Maxwell but before Volta/Turing."

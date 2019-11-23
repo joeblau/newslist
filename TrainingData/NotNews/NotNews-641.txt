@@ -1,0 +1,1 @@
+"Vega 10 based Vega 64/56 are now older designs that lack the newer features sets and abilities of Vega 20."

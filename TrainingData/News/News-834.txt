@@ -1,0 +1,1 @@
+"""Cybercriminals will begin using trusted devices like smartphones and tablets to try to gain control of [Internet of things] devices via password cracking and exploiting vulnerabilities, McAfee said in a press release."

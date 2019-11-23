@@ -1,0 +1,1 @@
+"That's a larger discussion for another article or two, but the gist of it is that Google wants to have a bare minimum of things in place on every phone so that every app in the Play Store will work as long as the phone is on a supported version."

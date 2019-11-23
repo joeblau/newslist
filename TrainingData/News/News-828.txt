@@ -1,0 +1,1 @@
+"In single-player games, the location can be traveled to via a console admin command."

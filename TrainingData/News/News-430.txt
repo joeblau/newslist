@@ -1,0 +1,1 @@
+"Google has a system that puts apps in a ""sleep"" state when they aren't actively doing anything but might need to in the future."

@@ -1,0 +1,1 @@
+"There are bound to be some Vega 20 Die binns without sufficient working Shader cores or nCUs to even be made into Radeon VIIs."

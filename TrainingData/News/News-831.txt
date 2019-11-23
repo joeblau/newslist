@@ -1,0 +1,1 @@
+"The system is meant to protect connected devices, also known as internet of things devices, from attack."

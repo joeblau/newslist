@@ -1,0 +1,1 @@
+"AMD is not in the market to defeat Nvidia for the Flagship gaming title and maybe there will be a Dual Vega 20/single PCIe card variant based on a Vega 20 DIE bin that closely matches the current Vega 10 based Vega 56 in Shaders:TMUs;ROPs metrics."

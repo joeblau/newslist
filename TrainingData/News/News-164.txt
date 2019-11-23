@@ -1,0 +1,1 @@
+"Haptic safety alerts vibrate the seat."

@@ -1,0 +1,1 @@
+"TSMC's 7nm node and whatever Memory Controller/xGMI/Other Vega 20/Radeon VII additions/tweaks information will have to wait for closer to release date."

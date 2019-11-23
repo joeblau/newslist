@@ -1,0 +1,1 @@
+"It expects these methods to be used and rules to be followed so that we get that consistency from every app in the Play Store."

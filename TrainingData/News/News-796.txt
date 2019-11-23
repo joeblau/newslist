@@ -1,0 +1,1 @@
+"Demand for corporate cloud services is expected to remain strong this year; a survey by Goldman Sachs last month found chief information officers intending to move more computing tasks this year to public cloud services like Amazons AWS and Microsofts Azure."

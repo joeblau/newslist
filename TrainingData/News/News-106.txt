@@ -1,0 +1,1 @@
+"It's the first model with Intel's Proximity sensor that logs you in automatically when you approach the device."

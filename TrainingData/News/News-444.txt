@@ -1,0 +1,1 @@
+"” Because of the changes, expect longer matchmaking times as the system tries to “ensure a good Glory rank match before opening up the search criteria."

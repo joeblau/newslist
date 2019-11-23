@@ -1,0 +1,1 @@
+"The two updates that caused this problem are KB4480960 and KB4480970 and when installed caused local users who are part of the local ""Administrators"" group to not be able to connect to remote shares on Windows Server 2008 R2 or Windows 7 Machines."

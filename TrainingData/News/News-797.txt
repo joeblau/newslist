@@ -1,0 +1,1 @@
+"The robot only communicates over the internet to receive software updates."

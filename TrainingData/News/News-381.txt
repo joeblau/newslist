@@ -1,0 +1,1 @@
+"In other words, if an app's listing says it requires Android 4 or higher to run, every phone running Android 4 or higher should be able to install and use the app."

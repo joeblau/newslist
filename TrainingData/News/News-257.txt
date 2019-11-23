@@ -1,0 +1,1 @@
+"To resolve this issue, on January 11th, 2019 Microsoft released the stand-alone update KB4487345 which makes it so local users who are also in the Administrators group can access remote shares again."

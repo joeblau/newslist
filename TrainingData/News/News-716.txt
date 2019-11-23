@@ -1,0 +1,1 @@
+"The card that AMD is releasing is close to the GTX 2080 in raster gaming performance and it's also on a 7nm Process node shrink with all of Vega 20's Extended AI ""Vega-2"" ISA extentions."

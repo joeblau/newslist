@@ -1,0 +1,1 @@
+"Therefore, if you added these registry changes, please delete the LocalAccountTokenFilterPolicy or at least change it to 0 so it uses default behavior."

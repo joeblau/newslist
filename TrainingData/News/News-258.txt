@@ -1,0 +1,1 @@
+"AMD chips are largely untested on Chrome OS, but considering it starts at 269 (and arrives in the US next month), the risk isn't too great."

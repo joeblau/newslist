@@ -1,0 +1,1 @@
+"Because the best practices and in some cases actual requirements for access to Google Play aren't observed, app developers are seeing a new set of headaches if the apps they build need to work while you're looking at another screen or have the display turned off."

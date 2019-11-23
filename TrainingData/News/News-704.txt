@@ -1,0 +1,1 @@
+""" Basically, this would allow Face ID or similar technology to scan the veins inside a users face, making authentication more secure by adding in elements that are not easily replicated in a mask."

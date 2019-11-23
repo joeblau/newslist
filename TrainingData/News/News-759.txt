@@ -1,0 +1,1 @@
+"AMD already markets a Dual Vega 10(Vega 56 like) GPU DIEs/Single PCIe card Variant for the cloud game/streaming market, the Radeon Pro V340, that's getting replaced with some Dual Vega 20 binned DIEs variant also."

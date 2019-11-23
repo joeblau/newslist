@@ -1,0 +1,1 @@
+"There will be a lower binned Part derived from Vega 20 that will have a closer complement of Shaders:TMUs:ROPs to AMD's current Vega 10 based Vega 56."

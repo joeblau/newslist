@@ -1,0 +1,1 @@
+"To make this function, Apple would simply turn off pixels that are located directly above any of the sensors or cameras while using Face ID or taking a selfie photo."

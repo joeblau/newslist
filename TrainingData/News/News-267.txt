@@ -1,0 +1,1 @@
+"If you have been unable to connect to remote shares since installing the January Patch Tuesday updates, then you should download and install the KB4487345 package."

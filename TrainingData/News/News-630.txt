@@ -1,0 +1,1 @@
+""" Players are tasked with gathering weapons and ammunition while the play area shrinks."

@@ -1,0 +1,1 @@
+"Google can then also improve other parts of Android and know what not to mess with if it wants all the apps to still work so it can try to stay backward-compliant."

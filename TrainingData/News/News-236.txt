@@ -1,0 +1,1 @@
+"Last week Microsoft released the January 2019 Patch Tuesday updates and included in the release were two updates that caused problems connecting to ntework shares on Windows 7 and Windows Server 2008 R2."

@@ -1,0 +1,1 @@
+"This all falls on the app developer's ears, as unhappy customers don't understand how memory management in Android works (nor should they need to) and why it's not just isolated to their affected app."

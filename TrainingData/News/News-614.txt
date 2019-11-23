@@ -1,0 +1,1 @@
+""" It uses a technology called micro LED - which creates a brighter image using less energy than current televisions."

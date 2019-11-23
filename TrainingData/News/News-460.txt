@@ -1,0 +1,1 @@
+"When one of the killed apps did need to stay alive it just doesn't work as intended."

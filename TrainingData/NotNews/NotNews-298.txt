@@ -1,0 +1,1 @@
+"The RTX 2070 is slightly faster than the GeForce GTX 1080, and since it's an RTX series it has support for newer technology like Ray Tracing and DLSS."

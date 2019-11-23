@@ -1,0 +1,1 @@
+"The Encode lock is directly addressable via Wi-Fi, with no separate hub required."

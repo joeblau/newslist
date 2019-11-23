@@ -1,0 +1,1 @@
+"AMD probably wants to end as much Vega 10 die production as possible and move that over to Vega 20 die production at 7nm and more Dies/Wafer with the Bins of consumer grade Vega 20 GPU DIEs replacing most all of AMD's GF/Vega 10 output."

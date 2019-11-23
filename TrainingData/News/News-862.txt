@@ -1,0 +1,1 @@
+"AMD has had TSMC banging out those Vega 20 GPU DIEs by the Wafer for a good while and the yields are a bit higher owing to the relatively smaller size of the Vega 20 Die at 7nm."

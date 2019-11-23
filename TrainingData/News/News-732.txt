@@ -1,0 +1,1 @@
+"It's a very logical thing from a business standpoint/die production standpoint for Vega 10 production(In the form of a Vega 20 replacment) to be replaced with Vega 20 production on TSMC's 7nm node."
